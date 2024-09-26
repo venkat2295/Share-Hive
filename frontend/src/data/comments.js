@@ -4,7 +4,7 @@ export const getCommentsData = async () => {
       _id: "10",
       user: {
         _id: "a",
-        name: "Mohammad Rezaii",
+        name: "venkat",
       },
       desc: "it was a nice post, Thank you!",
       post: "1",
@@ -16,7 +16,7 @@ export const getCommentsData = async () => {
       _id: "11",
       user: {
         _id: "b",
-        name: "Paul M. Williams",
+        name: "hmm",
       },
       desc: "a reply for Mohammad",
       post: "1",
@@ -28,7 +28,7 @@ export const getCommentsData = async () => {
       _id: "12",
       user: {
         _id: "b",
-        name: "Paul M. Williams",
+        name: "gygyg",
       },
       desc: "keep it up bro <3",
       post: "1",
@@ -40,7 +40,7 @@ export const getCommentsData = async () => {
       _id: "13",
       user: {
         _id: "c",
-        name: "Jessica C. Stephens",
+        name: "gyko",
       },
       desc: "I'm always interested in your content :)",
       post: "1",
